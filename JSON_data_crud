@@ -1,0 +1,1911 @@
+// {
+//     "person": {
+//         "name": "RIYA",
+//         "age": 30
+//     },
+
+//     "Biography": {
+//         "Long_Bio": "long_bio1111111111",
+//         "Speaker_Topics": "biograpphy topics",
+//         "Speaker_Topics_additional_keywords_separated_by_commas": "",
+//         "Speaker_Tags": "Select...",
+//         "Sort_Bio": "Write something...",
+//         "Introductory_Bio": "Write something...",
+//         "Descriptive_Title_Type": "Select...",
+//         "Descriptive_Title_1": "",
+//         "Descriptive_Title_2": "",
+//         "Descriptive_Title_3": "",
+//         "Location": {
+//             "City": "",
+//             "Province/State": ""
+//         },
+//         "Click_To_Start_Record_Audio_Introduction": {
+//             "Microphone": "off"
+//         }
+//     }
+//     ,
+
+//     "topic_descriptions": [
+//         {
+//         "Topic 1": {
+//             "id": 1,
+//             "Topic_Description_Title": "raman",
+//             "Topic_Description_Body_Text": "Topic_Description_Body_Text1",
+//             "Topic_delivered_as": "Virtual",
+//             "Audio_Clip_for_Topic_Description_1": "Audio_Clip_for_Topic_Description_11",
+//             "Video_Clip_for_Topic_Description_1": "Video_Clip_for_Topic_Description_11"
+//         }
+//           },
+//         {
+//         "Topic 2": {
+//             "id": 2,
+//             "Topic_Description_Title": "gfhgfghjgvbbhvb",
+//             "Topic_Description_Body_Text": "Topic_Description_Body_Text1",
+//             "Topic_delivered_as":"Keynote",
+//             "Audio_Clip_for_Topic_Description_1": "Audio_Clip_for_Topic_Description_12",
+//             "Video_Clip_for_Topic_Description_1": "Video_Clip_for_Topic_Description_12"
+//         }
+//          }
+//     ],
+
+
+//     "Testimonials": [
+//         {
+//             "Testimonial 1": {
+//                 "id": 1,
+//                 "Organizer_Name": "efrgthyj",
+//                 "Testimonial_Organization_Name": "Testimonial_Organization_Name1",
+//                 "Link_to_Video": "Link_to_Video1"
+//             }
+//         },
+//         {
+//             "Testimonial 2": {
+//                 "id": 2,
+//                 "Organizer_Name": "Organizer_Name2",
+//                 "Testimonial_Organization_Name": "Testimonial_Organization_Name2",
+//                 "Link_to_Video": "Link_to_Video2"
+//             }
+//         },
+//         {
+//             "Testimonial 3": {
+//                 "id": 3,
+//                 "Organizer_Name": "Organizer_Name3",
+//                 "Testimonial_Organization_Name": "Testimonial_Organization_Name3",
+//                 "Link_to_Video": "Link_to_Video3"
+//             }
+//         },
+//         {
+//             "Testimonial 4": {
+//                 "id": 4,
+//                 "Organizer_Name": "Organizer_Name4",
+//                 "Testimonial_Organization_Name": "Testimonial_Organization_Name4",
+//                 "Link_to_Video": "Link_to_Video4"
+//             }
+//         },
+//         {
+//             "Testimonial 5": {
+//                 "id": 5,
+//                 "Organizer_Name": "Organizer_Name5",
+//                 "Testimonial_Organization_Name": "Testimonial_Organization_Name5",
+//                 "Link_to_Video": "Link_to_Video5"
+//             }
+//         },
+//         {
+//             "Testimonial 6": {
+//                 "id": 6,
+//                 "Organizer_Name": "Organizer_Name6",
+//                 "Testimonial_Organization_Name": "Testimonial_Organization_Name6",
+//                 "Link_to_Video": "Link_to_Video6"
+//             }
+//         }
+//     ],
+
+
+
+//         "Video": [
+//         {
+//             "Video_1": {
+//             "id": 1,    
+//             "Title": "11111111",
+//             "Link": "Link1",
+//             "source_if_not": {
+//                 "HD_QualityY/N": false,
+//                 "Do_you_own_the_rights_to_this_video": true,
+//                 "Do_you_grant_SBC_permission_and_all_clients_permission_to_use_this_video_for_promoting_you_as_a_speaker": true
+//                 },
+//             "why not":"reason"     
+//             }
+//         },
+//         {
+//             "Video_2": {
+//             "id": 2,    
+//             "Title": "222222222222",
+//             "Link": "Link2",
+//             "source_if_not": {
+//                 "HD_QualityY/N": false,
+//                 "Do_you_own_the_rights_to_this_video": true,
+//                 "Do_you_grant_SBC_permission_and_all_clients_permission_to_use_this_video_for_promoting_you_as_a_speaker": true
+//                 },
+//             "why not":"reason" 
+//             }
+//         },
+//         {
+//             "Video_3": {
+//             "id": 3,    
+//             "Title": "33333333333",
+//             "Link": "Link1",
+//             "source_if_not": {
+//                 "HD_QualityY/N": false,
+//                 "Do_you_own_the_rights_to_this_video": true,
+//                 "Do_you_grant_SBC_permission_and_all_clients_permission_to_use_this_video_for_promoting_you_as_a_speaker": true
+//                 },
+//             "why not":"reason"    
+//             }
+//         },
+//         {
+//             "Video_4": {
+//             "id": 4,     
+//             "Title": "title 4",
+//             "Link": "Link1",
+//             "source_if_not": {
+//                 "HD_QualityY/N": false,
+//                 "Do_you_own_the_rights_to_this_video": true,
+//                 "Do_you_grant_SBC_permission_and_all_clients_permission_to_use_this_video_for_promoting_you_as_a_speaker": true
+//                 },
+//             "why not":"reason"     
+//             }
+//         }
+        
+//     ],
+
+
+//      "podcasts": [
+//         {
+//             "podcast_1": {
+//                 "id": 1,
+//                 "title": "title 1",
+//                 "link": "link1",
+//                 "source": "source1"
+//             }
+//         },    
+//         {
+//             "podcast_2": {
+//                 "id": 2,
+//                 "title": "2222222222",
+//                 "link": "link2",
+//                 "source": "source2"
+//             }
+//         },
+//         { 
+//             "podcast_3": {
+//                 "id": 3,
+//                 "title": "3333333333",
+//                 "link": "link3",
+//                 "source": "source3"
+//             }
+//         },
+//         {
+//             "podcast_4": {
+//                 "id": 4,
+//                 "title": "44444444",
+//                 "link": "link4",
+//                 "source": "source4"
+//             }
+//         }
+//     ],
+
+//     "media_mentions":
+//     [      
+//         {
+//             "media_1": {
+//                 "id": 1,
+//                 "organization_name": "name1",
+//                 "interview_article_title": "interview_article_title1",
+//                 "Interview/Article Title": {
+//                     "written_interview": false,
+//                     "audio_interview": false,
+//                     "video_interview": false,
+//                     "film": false },
+//                 "link": "link1",
+//                 "date": "date1",
+//                 "interview_source_name": "interview_source_name1"
+//                 }
+//         },
+//         {
+//             "media_2": {
+//                 "id": 2,
+//                 "organization_name": "name2",
+//                 "interview_article_title": "interview_article_title2",
+//                 "Interview/Article Title": {
+//                     "written_interview": false,
+//                     "audio_interview": false,
+//                     "video_interview": false,
+//                     "film": false},
+//                 "link": "link2",
+//                 "date": "date2",
+//                 "interview_source_name": "interview_source_name2"
+//                 }
+//         },
+//         {
+//             "media_3": {
+//                 "id": 3,
+//                 "organization_name": "name3",
+//                 "interview_article_title": "interview_article_title3",
+//                 "Interview/Article Title": {
+//                     "written_interview": false,
+//                     "audio_interview": false,
+//                     "video_interview": false,
+//                     "film": false
+//                 },
+//                 "link": "link3",
+//                 "date": "date3",
+//                 "interview_source_name": "interview_source_name3"
+//                 }
+//         },
+//         {
+//             "media_4": {
+//                 "id": 4,
+//                 "organization_name": "44444",
+//                 "interview_article_title": "interview_article_title4",
+//                 "Interview/Article Title": {
+//                     "written_interview": false,
+//                     "audio_interview": false,
+//                     "video_interview": false,
+//                     "film": false
+//                 },
+//                 "link": "link4",
+//                 "date": "date4",
+//                 "interview_source_name": "interview_source_name4"
+//                 }
+//         },
+//         {
+//             "media_5": {
+//                 "id": 5,
+//                 "organization_name": "name5",
+//                 "interview_article_title": "interview_article_title5",
+//                 "Interview/Article Title": {
+//                     "written_interview": false,
+//                     "audio_interview": false,
+//                     "video_interview": false,
+//                     "film": false
+//                 },
+//                 "link": "link5",
+//                 "date": "date5",
+//                 "interview_source_name": "interview_source_name5"
+//             }
+//         }    
+//     ],
+
+
+//      "white_papers_case_studies":[
+//         {
+//             "white_paper_case_study_1": {
+//                 "id": 1,
+//                 "organization_name": "organi_name1",
+//                 "title": "title1",
+//                 "topics": "topics1",
+//                 "description": "description1",
+//                 "link": "link1",
+//                 "date": "date1"
+//             }
+//         },
+//         {
+//             "white_paper_case_study_2": {
+//                 "id": 2,
+//                 "organization_name": "organization_name2",
+//                 "title": "title2",
+//                 "topics": "topics2",
+//                 "description": "description2",
+//                 "link": "link2",
+//                 "date": "date2"
+//             }
+//         },
+//         {   
+//             "white_paper_case_study_3": {
+//                 "id": 3,
+//                 "organization_name": "organization_name3",
+//                 "title": "title3",
+//                 "topics": "topics3",
+//                 "description": "description3",
+//                 "link": "link3",
+//                 "date": "date3"
+//             }
+//         },
+//         {
+//             "white_paper_case_study_4": {
+//                 "id": 4,
+//                 "organization_name": "organization_name4",
+//                 "title": "title4",
+//                 "topics": "topics4",
+//                 "description": "description4",
+//                 "link": "link4",
+//                 "date": "date4"
+//             }
+//         },
+//             {
+//             "white_paper_case_study_5": {
+//                 "id": 5,
+//                 "organization_name": "organization_name5",
+//                 "title": "title5",
+//                 "topics": "topics5",
+//                 "description": "description5",
+//                 "link": "link5",
+//                 "date": "date5"
+//             }
+//         }
+//     ],
+
+//     "speaker_contact_information": {
+//         "id": 1,
+//         "first_name": "raman",
+//         "last_name": "rgtryhgb",
+//         "middle_initials": "regtryhhgfv",
+//         "secondary_names_nick_name": "ewrfegtyg",
+//         "pronouns": "efwrgt",
+//         "cell_phone": "feregtryhg",
+//         "main_email": "rgtyg",
+//         "website_link": "rtygb",
+//         "rss_blog_link": "rgttgf",
+//         "rss_blog_link_2": "rftvff",
+//         "closest_major_airport": "frgthybg"
+//     },
+
+
+
+//     "manager_or_teammate": {
+//         "id": 1,
+//         "assist_coordinating": true,
+//         "contact_info": {
+//             "first_name": "riya",
+//             "last_name": "tyuio",
+//             "pronouns": "swdec",
+//             "cell_phone": "xscdx",
+//             "main_email": "swdesx",
+//             "website": "oiuhjk"
+//         }
+//     },
+
+//     "social_media_personal": {
+//         "id":1,
+//         "facebook": {
+//             "link": "link",
+//             "handle": "uyghj",
+//             "followers": "ertyu"
+//         },
+//         "instagram": {
+//             "link": "yuio",
+//             "handle": "handle",
+//             "followers": "yuihj"
+//         },
+//         "twitter": {
+//             "link": "werdtf",
+//             "handle": "dfgh",
+//             "followers": "followers"
+//         },
+//         "linkedin": {
+//             "link": "link2",
+//             "handle": "xsdc",
+//             "followers": "sxdcx"
+//         },
+//         "tiktok": {
+//             "link": "xcdc",
+//             "handle": "haandle2",
+//             "followers": "bgv"
+//         }
+//     },
+
+
+//     "business_info":{
+//         "id": 1,
+//         "business_issue_payment":true,
+//         "business_information": {
+//             "official_business_name": "raman",
+//             "business_email": "raman@gmail.com",
+//             "business_phone": "76567890899",
+//             "business_number": "23",
+//             "website": "www.goggle.com"
+//         }
+//     },
+
+//      "social_media_business": {
+//                 "id": 1,
+     
+//                 "facebook": {
+//                     "link": "link",
+//                     "handle": "dfvgvbf",
+//                     "followers": "dcvfgbfvc"
+//                 },
+//                 "instagram": {
+//                     "link": "linkinstagram",
+//                     "handle": "dvfvf",
+//                     "followers": "vdfgbfv"
+//                 },
+//                 "twitter": {
+//                     "link": "linktwitter",
+//                     "handle": "dfgtgfv",
+//                     "followers": "dfvgtvf"
+//                 },
+//                 "linkedin": {
+//                     "link": "linklinkedin",
+//                     "handle": "frgvrf",
+//                     "followers": "vtfv"
+//                 },
+//                 "tiktok": {
+//                     "link": "link tiktok",
+//                     "handle": "ftfrfe",
+//                     "followers": "wdeff"
+//                 }
+//             },
+
+
+//     "Brand_Product_Campaigns&Endorsements":[
+//         {
+//         "organization_1":{
+//             "id": 1,
+//             "part_of_social_media":true,
+//             "organization_1_details":{
+//                 "organization_name": "organization_name1",
+//                 "platforms": "platforms1",
+//                 "link_to_campaign": "link_to_campaign1",
+//                 "start_year": "start_year1",
+//                 "end_year": "end_year1"
+//                 }
+//             }
+//         },
+//         {
+//         "organization_2":{
+//             "id": 2,
+//             "part_of_social_media":false,
+//             "organization_2_details":{
+//                 "organization_name": "organization_name1",
+//                 "platforms": "platforms1",
+//                 "link_to_campaign": "link_to_campaign1",
+//                 "start_year": "start_year1",
+//                 "end_year": "end_year1"
+//                 }
+//             }
+//         },
+//         {
+//         "organization_3":{
+//             "id": 3,
+//             "part_of_social_media":true,
+//             "organization_3_details":{
+//                 "organization_name": "organization_name1",
+//                 "platforms": "platforms1",
+//                 "link_to_campaign": "link_to_campaign1",
+//                 "start_year": "start_year1",
+//                 "end_year": "end_year1"
+//                 }
+//             }
+//         },
+//         {
+//         "organization_4":{
+//             "id": 4,
+//             "part_of_social_media":false,
+//             "organization_4_details":{
+//                 "organization_name": "organization_name1",
+//                 "platforms": "platforms1",
+//                 "link_to_campaign": "link_to_campaign1",
+//                 "start_year": "start_year1",
+//                 "end_year": "end_year1"
+//                 }
+//             }
+//         }
+//     ],
+
+
+//     "at_events":[{
+//         "id": 1,
+//         "presentation_software": {
+//             "using_presentation_software": false,
+//             "presentation_software_name": "no software"
+//         },
+//         "audience_interaction_software":{
+//             "using_audience_interaction_software": false,
+//             "audience_interaction_software_name": "audience_interaction_software_name"
+//         },
+//         "attending_sessions_before_after_presentation": false,
+//         "meal_networking_session":{
+//             "attending_meals_networking_sessions": false,
+//             "dietary_requirements_restrictions": "fdg",
+//             "A_V_requirements":"requirements",
+//             "speaker_introduction": [
+//             {
+//                 "id": 1,
+//                 "introduction_1": "intro_1"
+//             },
+//             {
+//                 "id": 2,
+//                 "introduction_2": "intro_2"
+//             }]
+//         },
+//         "travel_agent": {
+//             "use_travel_agent": false,
+//             "Preferred_Seating":"Preferred_Seating1",
+//             "Preferred_Airline":"airline",
+//             "West_Jet#":"wettjet",
+//             "Air_Canada#":"canada air"
+//         },
+//         "special_conditions_for_travel_arrangements":false,
+//         "table_for_book_sales":true
+//     }],
+
+
+//     "Help_us_book_you":{
+//         "id": 1,
+//         "speaker_reason_to_work_with": "no reason",
+//         "value_adds_and_offerings": {
+//             "offer_any_value_adds":false,
+//             "books": {
+//                 "how_many_items": "how_many_items",
+//                 "value_per_item": "value_per_item"
+//             },
+//             "online_training": {
+//                 "how_many_items": "how_many_items",
+//                 "value_per_item": "value_per_item"
+//             },
+//             "merch": {
+//                 "how_many_items": "how_many_items ",
+//                 "value_per_item": "value_per_item"
+//             },
+//             "merch_2": {
+//                 "how_many_items": "how_many_items",
+//                 "value_per_item": "value_per_item"
+//             }
+//         },
+//         "complementary_virtual_follow_sessions_consultation": true,
+//         "inclusive_of_travel_expenses": "inclusive_of_travel_expenses",
+//         "industry_you_specialize_with": {
+//             "industries_do_you_not_work_with": "industries_do_you_not_work_with",
+//             "favorite_audiences_event_types": "favorite_audiences_event_types",
+//             "target_audiences_industries": "target_audiences_industries"
+//         },
+//         "English_&_French":false,
+//         "Q&A_in_French": true,
+//         "offer_recordings": true,
+//         "primary_source_of_income": "primary_source_of_income",
+//         "speaking_frequency": {
+//             "hoping_for_speaking_to_become_your_primary_source_income":false,
+//             "current_speak_per_month": "current_speak_per_month",
+//             "virtual_events_over_pandemic": "virtual_events_over_pandemic",
+//             "speak_per_month": "speak_per_month",
+//             "market_yourself_as_a_speaker":"market_yourself_as_a_speaker",
+//             "affiliated_with_any_other_speakers_agencies":"affiliated_with_any_other_speakers_agencies",
+//             "percentage_of_bookings":"percentage_of_bookings",
+//             "Approximately_what_percentage":"Approximately_what_percentage",
+//             "speakers_are_you_affiliated_with":"speakers_are_you_affiliated_with"
+//         }
+//     },
+
+//     "Help_us_work_with_you":{
+//         "id": 1,
+//         "newsletter_onboarding": "rfgbhb",
+//         "tracking_system": true,
+//         "whatsapp": false,
+//         "business_ownership": true,
+//         "crm_usage": "crm_usage",
+//         "appointment_booking_software": "appointment_booking_software",
+//         "expectations_with_sbc": "expectations_with_sbc",
+//         "something_about_you": "something_about_you",
+//         "stories": "stories"
+//     },
+
+//     "Fees":{
+//         "id": 1,
+//         "Pro_Bono_Events":"wdefr",
+//         "Discounted_Rate_Events":{
+//             "Corporate_Keynote_20-60_Minutes":"ghjk",
+//             "Corporate_Workshop_60-120_Minutes":"ertyu",
+//             "Corporate_Half_Day_Training_or_Keynote_Breakout":"lkjhgf",
+//             "Corporate_Full_Day_Training":"mnbvc"
+//         },
+//         "Multiple_Sessions_on_the_Same_Day":{
+//                 "Concurrent_Sessions_Fee":"qwe",
+//                 "One_Session_in_the_Morning_Fee":"gfdcx",
+//                 "One_Session_in_the_Afternoon_Fee":"df"
+            
+//         },
+//         "Multiple_Sessions_on_Concurrent_Days":"Multiple_Sessions_on_Concurrent_Days",
+//         "Multiple_Sessions_Over_a_Period_of_Time":"Multiple_Sessions_Over_a_Period_of_Time",
+//         "Lowest_Acceptance_for_Informal_Talk":"sdfv",
+//         "Host_or_Emcee_Fees":{
+//             "One_Day_Event":"we",
+//             "One_Day_Plus_Evening_Ceremony_Keynote":"wdevf",
+//             "Two_Day_Event":"Two_Day_Event",
+//             "Two_Day_Plus_Evening_Ceremony_Keynote":"Two_Day_Plus_Evening_Ceremony_Keynote",
+//             "Three_Day_Event":"Three_Day_Event",
+//             "Three_Day_Plus_Evening_Ceremony_Keynote":"Three_Day_Plus_Evening_Ceremony_Keynote",
+//             "Four_Day_Event":"Four_Day_Event",
+//             "Four_Day_Plus_Evening_Ceremony_Keynote":"Four_Day_Plus_Evening_Ceremony_Keynote",
+//             "What is your corporate speaker fee":"bfgvfcds",
+//             "lowest you will accept":"wdeffv",
+//             "limitations or condition":"ecfrvgtv",
+//             "Driving Distance Fee":"wdevf",
+//             "Province Fee":"tbyhg",
+//             "Western Canada Fee":"juhybgvf",
+//             "Eastern Canada Fee":"wdefrf",
+//             "Northern Canada Fee":"vf",
+//             "Remote Location Fee":"wdefr"
+//         },
+//         "Local_Discount": {
+//                 "Local_Discount": true,
+//                 "Local_Fee": "Fee",
+//                 "Client_Direct_Approach_for_Local_Event":"wdefv"
+//         },
+//         "Virtual_Discount":{
+//                 "Virtual_Discountt":false,
+//                 "Virtual_Fee":"Virtual Fee",
+//                 "Client_Direct_Approach_for_Virtual_Event":"vffc"
+//         },
+//         "Small_Audience_Discount":{
+//                 "Small_Audience_Discountt":false,
+//                 "Small_Audience_Fee":"Small Audience Fee",
+//                 "Client_Direct_Approach_for_Small_Audience_Event":"Acceptance",
+//                 "Qualification_for_Small_Audience":"Qualification for Small Audience"
+//         },
+//         "Nonprofit_Discount":{
+//                 "Nonprofit_Discountt":true,
+//                 "Nonprofit_Fee":"Nonprofit Fee",
+//                 "Client_Direct_Approach_for_Nonprofit":"for_Nonprofit"
+//         },
+//         "Charitable_Organization_Discount":{
+//                 "Charitable_Organization_Discountt":false,
+//                 "Charitable_Fee":"Charitable Fee",
+//                 "Client_Direct_Approach_for_Charitable_Organization":"gtbhgrfvd",
+//                 "outside_of_speaker_fee_ranges":"outside_of_speaker_fee_ranges"
+//         },
+//         "Rate_Increase":true
+        
+//     },
+
+//     "speaker_pitches": [
+//         {
+//             "pitch_1": {
+//                "id": 1,
+//                 "general_pitch": "general_pitch ",
+//                 "keyword_topic_focus_pitch":"wevf",
+//                 "Short_pitch_up":"fvgdg"
+//             }
+//         },
+//         {
+//             "pitch_2": {
+//                  "id": 2,
+//                 "general_pitch": "dfgfvc ",
+//                 "keyword_topic_focus_pitch":"keyword_topic_focus_pitch",
+//                 "Short_pitch_up":"fvgsxcdvfdg"
+//             }
+//         },
+//         {
+//             "pitch_3": {
+//                "id": 3,
+//                 "general_pitch": "werf ",
+//                 "keyword_topic_focus_pitch":"vcd",
+//                 "Short_pitch_up":"Short_pitch_up"
+//             }
+//         }
+//     ],
+
+
+
+//     "previous_clients": [
+//         {
+//            "id": 1,
+//             "organization_name_1": "ccgc"
+//         },
+//         {
+//            "id": 2,
+//             "organization_name_2": "GPC"
+//         },
+//         {
+//             "id": 3,
+//             "organization_name_3": "sd"
+//         },
+//         {
+//            "id": 4,
+//             "organization_name_3": "bhbkj"
+//         },
+//         {
+//             "id": 5,
+//             "organization_name_4": "pggc"
+//         },
+//         {
+//             "id": 6,
+//             "organization_name_5": "khalsa"
+//         }
+//     ]
+
+// }
+
+
+
+
+// {
+//     "topic_description_ids": [2],  
+//     "testimonial_ids": [1],           
+//     "image_ids": [4, 5],              
+//     "video_ids": [2],                
+//     "podcast_ids": [3],               
+//     "book_ids": [1, 2],             
+//     "bulk_order_detail_ids": [1],    
+//     "media_mention_ids": [2],         
+//     "white_paper_case_study_ids": [1], 
+//     "degree_ids": [1],                   
+//     "certificate_ids": [1],                 
+//     "award_ids": [1],
+//     "social_media_campaign_ids": [1],
+//     "brand_endorsement_ids": [1],
+//     "speaker_pitch_ids": [1],
+//     "keyword_topic_focus_pitch_ids": [2],
+//     "previous_client_ids": [14, 15]
+
+// }  
+
+
+
+
+// {
+//     "person": {
+//     "name": "RIYA"
+//     }
+// }
+
+// {
+//     "user":
+//         {
+//             
+//                 "email": "riya123@gmail.com",
+//                 "username": "riya123",
+//                 "password": "riyawalia"
+//             
+//         }
+// }
+    
+
+// {
+//     "speaker_contact_information": {
+//         "first_name": "wdefrgth",
+//         "last_name": "rgtryhgb",
+//         "middle_initials": "regtryhhgfv",
+//         "secondary_names_nick_name": "ewrfegtyg",
+//         "pronouns": "efwrgt",
+//         "cell_phone": "feregtryhg",
+//         "main_email": "rgtyg",
+//         "website_link": "rtygb",
+//         "rss_blog_link": "rgttgf",
+//         "rss_blog_link_2": "rftvff",
+//         "closest_major_airport": "frgthybg"
+//     },
+
+//     "manager_or_teammate": {
+//         "assist_coordinating": true,
+//         "contact_info": {
+//             "first_name": "gjh",
+//             "last_name": "tyuio",
+//             "pronouns": "swdec",
+//             "cell_phone": "xscdx",
+//             "main_email": "swdesx",
+//             "website": "oiuhjk"
+//         }
+//     },
+
+//      "social_media_personal": {
+//         "facebook": {
+//             "link": "hjk",
+//             "handle": "uyghj",
+//             "followers": "ertyu"
+//         },
+//         "instagram": {
+//             "link": "yuio",
+//             "handle": "rtyui",
+//             "followers": "yuihj"
+//         },
+//         "twitter": {
+//             "link": "werdtf",
+//             "handle": "dfgh",
+//             "followers": "nvvvvvvvvvvvvvvm"
+//         },
+//         "linkedin": {
+//             "link": "qwsd",
+//             "handle": "xsdc",
+//             "followers": "sxdcx"
+//         },
+//         "tiktok": {
+//             "link": "xcdc",
+//             "handle": "wdecx",
+//             "followers": "bgv"
+//         }
+//     }
+// }
+
+
+// { 
+//     "Biography": 
+//    {
+//         "Highlight":"vghjklp",
+//         "Sort_Bio": "Write something...",
+//         "Long_Bio": "long_bio1111111111",
+//         "Speaker_Topics": "biograpphy topics",
+//         "Speaker_Topics_additional_keywords_separated_by_commas": "",
+//         "Speaker_Tags": "Select...",
+//         "Descriptive_Title_Type": "Select...",
+//         "Descriptive_Title_1": "",
+//         "Descriptive_Title_2": "",
+//         "Descriptive_Title_3": "",
+//         "Location": {
+//             "City": "",
+//             "Province/State": ""
+//         },
+//         "Click_To_Start_Record_Audio_Introduction": {
+//             "Microphone": "off"
+//         }
+//     }
+// }
+
+
+
+// {   
+//     "topic_descriptions": [
+//           {
+//         "Topic 1": {
+//             "Topic_Description_Title": "riya",
+//             "Topic_Description_Body_Text": "Topic_Description_Body_Text1",
+//             "Topic_delivered_as": "Virtual",
+//             "Audio_Clip_for_Topic_Description_1": "Audio_Clip_for_Topic_Description_11",
+//             "Video_Clip_for_Topic_Description_1": "Video_Clip_for_Topic_Description_11"
+//         }
+//           },
+//         {
+//         "Topic 2": {
+//             "Topic_Description_Title": "Topic_Description_Title2222222222",
+//             "Topic_Description_Body_Text": "Topic_Description_Body_Text1",
+//             "Topic_delivered_as":"Keynote",
+//             "Audio_Clip_for_Topic_Description_1": "Audio_Clip_for_Topic_Description_12",
+//             "Video_Clip_for_Topic_Description_1": "Video_Clip_for_Topic_Description_12"
+//         }
+//          }
+//     ]
+// }
+
+
+// {
+//     "Video": [
+//         {
+//             "Video_1": {
+//             "Title": "Title1",
+//             "Link": "Link1",
+//             "source_if_not": {
+//                 "HD_QualityY/N": false,
+//                 "Do_you_own_the_rights_to_this_video": true,
+//                 "Do_you_grant_SBC_permission_and_all_clients_permission_to_use_this_video_for_promoting_you_as_a_speaker": true
+//                 },
+//             "why not":"reason"     
+//             }
+//         },
+//         {
+//             "Video_2": {
+//             "Title": "Title2",
+//             "Link": "Link2",
+//             "source_if_not": {
+//                 "HD_QualityY/N": false,
+//                 "Do_you_own_the_rights_to_this_video": true,
+//                 "Do_you_grant_SBC_permission_and_all_clients_permission_to_use_this_video_for_promoting_you_as_a_speaker": true
+//                 },
+//             "why not":"reason" 
+//             }
+//         },
+//         {
+//             "Video_3": {
+//             "Title": "Title1",
+//             "Link": "Link1",
+//             "source_if_not": {
+//                 "HD_QualityY/N": false,
+//                 "Do_you_own_the_rights_to_this_video": true,
+//                 "Do_you_grant_SBC_permission_and_all_clients_permission_to_use_this_video_for_promoting_you_as_a_speaker": true
+//                 },
+//             "why not":"reason"    
+//             }
+//         },
+//         {
+//             "Video_4": {
+//             "Title": "Title1",
+//             "Link": "Link1",
+//             "source_if_not": {
+//                 "HD_QualityY/N": false,
+//                 "Do_you_own_the_rights_to_this_video": true,
+//                 "Do_you_grant_SBC_permission_and_all_clients_permission_to_use_this_video_for_promoting_you_as_a_speaker": true
+//                 },
+//             "why not":"reason"     
+//             }
+//         }
+        
+//     ]
+// }
+
+
+
+// {
+//     "media_mentions":
+//     [      
+//         {
+//             "media_1": {
+//                 "organization_name": "organization_name1",
+//                 "Interview/Article Title": {
+//                     "written_interview": false,
+//                     "audio_interview": false,
+//                     "video_interview": false,
+//                     "film": false },
+//                 "link": "link1",
+//                 "date": "date1",
+//                 "interview_source_name": "interview_source_name1"
+//                 }
+//         },
+//         {
+//             "media_2": {
+//                 "organization_name": "organization_name2",
+//                 "Interview/Article Title": {
+//                     "written_interview": false,
+//                     "audio_interview": false,
+//                     "video_interview": false,
+//                     "film": false},
+//                 "link": "link2",
+//                 "date": "date2",
+//                 "interview_source_name": "interview_source_name2"
+//                 }
+//         },
+//         {
+//             "media_3": {
+//                 "organization_name": "organization_name3",
+//                 "Interview/Article Title": {
+//                     "written_interview": false,
+//                     "audio_interview": false,
+//                     "video_interview": false,
+//                     "film": false
+//                 },
+//                 "link": "link3",
+//                 "date": "date3",
+//                 "interview_source_name": "interview_source_name3"
+//                 }
+//         },
+//         {
+//             "media_4": {
+//                 "organization_name": "organization_name4",
+//                 "Interview/Article Title": {
+//                     "written_interview": false,
+//                     "audio_interview": false,
+//                     "video_interview": false,
+//                     "film": false
+//                 },
+//                 "link": "link4",
+//                 "date": "date4",
+//                 "interview_source_name": "interview_source_name4"
+//                 }
+//         },
+//         {
+//             "media_5": {
+//                 "organization_name": "organization_name5",
+//                 "Interview/Article Title": {
+//                     "written_interview": false,
+//                     "audio_interview": false,
+//                     "video_interview": false,
+//                     "film": false
+//                 },
+//                 "link": "link5",
+//                 "date": "date5",
+//                 "interview_source_name": "interview_source_name5"
+//             }
+//         }    
+//     ]
+// }
+
+// {   
+//     "white_papers_case_studies":[
+//         {
+//             "white_paper_case_study_1": {
+//                 "organization_name": "organization_name1",
+//                 "title": "title1",
+//                 "topics": "topics1",
+//                 "description": "description1",
+//                 "link": "link1",
+//                 "date": "date1"
+//             }
+//         },
+//         {
+//             "white_paper_case_study_2": {
+//                 "organization_name": "organization_name2",
+//                 "title": "title2",
+//                 "topics": "topics2",
+//                 "description": "description2",
+//                 "link": "link2",
+//                 "date": "date2"
+//             }
+//         },
+//         {   
+//             "white_paper_case_study_3": {
+//                 "organization_name": "organization_name3",
+//                 "title": "title3",
+//                 "topics": "topics3",
+//                 "description": "description3",
+//                 "link": "link3",
+//                 "date": "date3"
+//             }
+//         },
+//         {
+//             "white_paper_case_study_4": {
+//                 "organization_name": "organization_name4",
+//                 "title": "title4",
+//                 "topics": "topics4",
+//                 "description": "description4",
+//                 "link": "link4",
+//                 "date": "date4"
+//             }
+//         },
+//             {
+//             "white_paper_case_study_5": {
+//                 "organization_name": "organization_name5",
+//                 "title": "title5",
+//                 "topics": "topics5",
+//                 "description": "description5",
+//                 "link": "link5",
+//                 "date": "date5"
+//             }
+//         }
+//     ]
+// }
+
+// {
+//     "Testimonials": [
+//         {
+//             "Testimonial 1": {
+//                 "Organizer_Name": "Organizer_Name1111111",
+//                 "Testimonial_Organization_Name": "Testimonial_Organization_Name1",
+//                 "Link_to_Video": "Link_to_Video1"
+//             }
+//         },
+//         {
+//             "Testimonial 2": {
+//                 "Organizer_Name": "Organizer_Name22222222",
+//                 "Testimonial_Organization_Name": "Testimonial_Organization_Name2",
+//                 "Link_to_Video": "Link_to_Video2"
+//             }
+//         },
+//         {
+//             "Testimonial 3": {
+//                 "Organizer_Name": "Organizer_Name3",
+//                 "Testimonial_Organization_Name": "Testimonial_Organization_Name3",
+//                 "Link_to_Video": "Link_to_Video3"
+//             }
+//         },
+//         {
+//             "Testimonial 4": {
+//                 "Organizer_Name": "Organizer_Name4",
+//                 "Testimonial_Organization_Name": "Testimonial_Organization_Name4",
+//                 "Link_to_Video": "Link_to_Video4"
+//             }
+//         },
+//         {
+//             "Testimonial 5": {
+//                 "Organizer_Name": "Organizer_Name5",
+//                 "Testimonial_Organization_Name": "Testimonial_Organization_Name5",
+//                 "Link_to_Video": "Link_to_Video5"
+//             }
+//         },
+//         {
+//             "Testimonial 6": {
+//                 "Organizer_Name": "Organizer_Name6",
+//                 "Testimonial_Organization_Name": "Testimonial_Organization_Name6",
+//                 "Link_to_Video": "Link_to_Video6"
+//             }
+//         }
+//     ]
+// }
+
+// {
+//             "business_info":{
+//                 "business_issue_payment":true,
+//                 "business_information": {
+//                     "official_business_name": "riya",
+//                     "business_email": "riya@gmail.com",
+//                     "business_phone": "76567890899",
+//                     "business_number": "23",
+//                     "website": "www.goggle.com"
+//                     }
+//             },
+
+//             "social_media_business": {
+//                 "facebook": {
+//                     "link": "wdefrgfv",
+//                     "handle": "dfvgvbf",
+//                     "followers": "dcvfgbfvc"
+//                 },
+//                 "instagram": {
+//                     "link": "cdvf",
+//                     "handle": "dvfvf",
+//                     "followers": "vdfgbfv"
+//                 },
+//                 "twitter": {
+//                     "link": "dfvgtvf",
+//                     "handle": "dfgtgfv",
+//                     "followers": "dfvgtvf"
+//                 },
+//                 "linkedin": {
+//                     "link": "dftvgf",
+//                     "handle": "frgvrf",
+//                     "followers": "vtfv"
+//                 },
+//                 "tiktok": {
+//                     "link": "rgvf",
+//                     "handle": "ftfrfe",
+//                     "followers": "wdeff"
+//                 }
+//             }
+// }
+
+
+{
+    "Brand_Product_Campaigns&Endorsementstheme1":[
+        {
+        "organization_1":{
+            "part_of_social_media":true,
+            "organization_1_details":{
+                "organization_name": "organization_name1",
+                "platforms": "platforms1",
+                "link_to_campaign": "link_to_campaign1",
+                "start_year": "start_year1",
+                "end_year": "end_year1"
+                }
+            }
+        },
+        {
+        "organization_2":{
+            "part_of_social_media":false,
+            "organization_2_details":{
+                "organization_name": "organization_name1",
+                "platforms": "platforms1",
+                "link_to_campaign": "link_to_campaign1",
+                "start_year": "start_year1",
+                "end_year": "end_year1"
+                }
+            }
+        },
+        {
+        "organization_3":{
+            "part_of_social_media":true,
+            "organization_3_details":{
+                "organization_name": "organization_name1",
+                "platforms": "platforms1",
+                "link_to_campaign": "link_to_campaign1",
+                "start_year": "start_year1",
+                "end_year": "end_year1"
+                }
+            }
+        },
+        {
+        "organization_4":{
+            "part_of_social_media":false,
+            "organization_4_details":{
+                "organization_name": "organization_name1",
+                "platforms": "platforms1",
+                "link_to_campaign": "link_to_campaign1",
+                "start_year": "start_year1",
+                "end_year": "end_year1"
+                }
+            }
+        }
+    ],
+
+    "Brand_Product_Campaigns&Endorsementstheme2":[
+        {
+        "organization_1":{
+            "part_of_social_media":true,
+            "organization_1_details":{
+                "organization_name": "organization_name1",
+                "platforms": "platforms1",
+                "link_to_campaign": "link_to_campaign1",
+                "start_year": "start_year1",
+                "end_year": "end_year1"
+                }
+            }
+        },
+        {
+        "organization_2":{
+            "part_of_social_media":false,
+            "organization_2_details":{
+                "organization_name": "organization_name1",
+                "platforms": "platforms1",
+                "link_to_campaign": "link_to_campaign1",
+                "start_year": "start_year1",
+                "end_year": "end_year1"
+                }
+            }
+        },
+        {
+        "organization_3":{
+            "part_of_social_media":true,
+            "organization_3_details":{
+                "organization_name": "organization_name1",
+                "platforms": "platforms1",
+                "link_to_campaign": "link_to_campaign1",
+                "start_year": "start_year1",
+                "end_year": "end_year1"
+                }
+            }
+        },
+        {
+        "organization_4":{
+            "part_of_social_media":false,
+            "organization_4_details":{
+                "organization_name": "organization_name1",
+                "platforms": "platforms1",
+                "link_to_campaign": "link_to_campaign1",
+                "start_year": "start_year1",
+                "end_year": "end_year1"
+                }
+            }
+        }
+    ]
+}
+
+// {
+//     "person": {
+//         "name": "RIYA"
+//     },
+
+//     "user":[
+//         {
+//             "user1": {
+//                 "email": "riya123@gmail.com",
+//                 "username": "riya123",
+//                 "password": "riyawalia"
+//             }
+//         },
+//         {
+//             "user2": {
+//                 "email": "pallavi123@gmail.com",
+//                 "username": "pallavi123",
+//                 "password": "pallavisharma"
+//             }
+//         }
+//     ],
+
+//     "Biography": {
+//         "Long_Bio": "long_bio1111111111",
+//         "Speaker_Topics": "biograpphy topics",
+//         "Speaker_Topics_additional_keywords_separated_by_commas": "",
+//         "Speaker_Tags": "Select...",
+//         "Sort_Bio": "Write something...",
+//         "Introductory_Bio": "Write something...",
+//         "Descriptive_Title_Type": "Select...",
+//         "Descriptive_Title_1": "",
+//         "Descriptive_Title_2": "",
+//         "Descriptive_Title_3": "",
+//         "Location": {
+//             "City": "",
+//             "Province/State": ""
+//         },
+//         "Click_To_Start_Record_Audio_Introduction": {
+//             "Microphone": "off"
+//         }
+//     }
+//     ,
+
+//     "topic_descriptions": [
+//           {
+//         "Topic 1": {
+//             "Topic_Description_Title": "riya",
+//             "Topic_Description_Body_Text": "Topic_Description_Body_Text1",
+//             "Topic_delivered_as": "Virtual",
+//             "Audio_Clip_for_Topic_Description_1": "Audio_Clip_for_Topic_Description_11",
+//             "Video_Clip_for_Topic_Description_1": "Video_Clip_for_Topic_Description_11"
+//         }
+//           },
+//         {
+//         "Topic 2": {
+//             "Topic_Description_Title": "Topic_Description_Title2222222222",
+//             "Topic_Description_Body_Text": "Topic_Description_Body_Text1",
+//             "Topic_delivered_as":"Keynote",
+//             "Audio_Clip_for_Topic_Description_1": "Audio_Clip_for_Topic_Description_12",
+//             "Video_Clip_for_Topic_Description_1": "Video_Clip_for_Topic_Description_12"
+//         }
+//          }
+//     ],
+
+
+
+//     "Testimonials": [
+//         {
+//             "Testimonial 1": {
+//                 "Organizer_Name": "Organizer_Name1111111",
+//                 "Testimonial_Organization_Name": "Testimonial_Organization_Name1",
+//                 "Link_to_Video": "Link_to_Video1"
+//             }
+//         },
+//         {
+//             "Testimonial 2": {
+//                 "Organizer_Name": "Organizer_Name22222222",
+//                 "Testimonial_Organization_Name": "Testimonial_Organization_Name2",
+//                 "Link_to_Video": "Link_to_Video2"
+//             }
+//         },
+//         {
+//             "Testimonial 3": {
+//                 "Organizer_Name": "Organizer_Name3",
+//                 "Testimonial_Organization_Name": "Testimonial_Organization_Name3",
+//                 "Link_to_Video": "Link_to_Video3"
+//             }
+//         },
+//         {
+//             "Testimonial 4": {
+//                 "Organizer_Name": "Organizer_Name4",
+//                 "Testimonial_Organization_Name": "Testimonial_Organization_Name4",
+//                 "Link_to_Video": "Link_to_Video4"
+//             }
+//         },
+//         {
+//             "Testimonial 5": {
+//                 "Organizer_Name": "Organizer_Name5",
+//                 "Testimonial_Organization_Name": "Testimonial_Organization_Name5",
+//                 "Link_to_Video": "Link_to_Video5"
+//             }
+//         },
+//         {
+//             "Testimonial 6": {
+//                 "Organizer_Name": "Organizer_Name6",
+//                 "Testimonial_Organization_Name": "Testimonial_Organization_Name6",
+//                 "Link_to_Video": "Link_to_Video6"
+//             }
+//         }
+//     ],
+
+//     "Video": [
+//         {
+//             "Video_1": {
+//             "Title": "Title1",
+//             "Link": "Link1",
+//             "source_if_not": {
+//                 "HD_QualityY/N": false,
+//                 "Do_you_own_the_rights_to_this_video": true,
+//                 "Do_you_grant_SBC_permission_and_all_clients_permission_to_use_this_video_for_promoting_you_as_a_speaker": true
+//                 },
+//             "why not":"reason"     
+//             }
+//         },
+//         {
+//             "Video_2": {
+//             "Title": "Title2",
+//             "Link": "Link2",
+//             "source_if_not": {
+//                 "HD_QualityY/N": false,
+//                 "Do_you_own_the_rights_to_this_video": true,
+//                 "Do_you_grant_SBC_permission_and_all_clients_permission_to_use_this_video_for_promoting_you_as_a_speaker": true
+//                 },
+//             "why not":"reason" 
+//             }
+//         },
+//         {
+//             "Video_3": {
+//             "Title": "Title1",
+//             "Link": "Link1",
+//             "source_if_not": {
+//                 "HD_QualityY/N": false,
+//                 "Do_you_own_the_rights_to_this_video": true,
+//                 "Do_you_grant_SBC_permission_and_all_clients_permission_to_use_this_video_for_promoting_you_as_a_speaker": true
+//                 },
+//             "why not":"reason"    
+//             }
+//         },
+//         {
+//             "Video_4": {
+//             "Title": "Title1",
+//             "Link": "Link1",
+//             "source_if_not": {
+//                 "HD_QualityY/N": false,
+//                 "Do_you_own_the_rights_to_this_video": true,
+//                 "Do_you_grant_SBC_permission_and_all_clients_permission_to_use_this_video_for_promoting_you_as_a_speaker": true
+//                 },
+//             "why not":"reason"     
+//             }
+//         }
+        
+//     ],
+
+
+//     "podcasts": [
+//         {
+//             "podcast_1": {
+//                 "title": "title1",
+//                 "link": "link1",
+//                 "source": "source1"
+//             }
+//         },    
+//         {
+//             "podcast_2": {
+//                 "title": "title2",
+//                 "link": "link2",
+//                 "source": "source2"
+//             }
+//         },
+//         { 
+//             "podcast_3": {
+//                 "title": "title3",
+//                 "link": "link3",
+//                 "source": "source3"
+//             }
+//         },
+//         {
+//             "podcast_4": {
+//                 "title": "title4",
+//                 "link": "link4",
+//                 "source": "source4"
+//             }
+//         }
+//     ],
+
+    "media_mentions":
+    [      
+        {
+            "media_1": {
+                "organization_name": "organization_name1",
+                "interview_article_title": "interview_article_title1",
+                "Interview/Article Title": {
+                    "written_interview": false,
+                    "audio_interview": false,
+                    "video_interview": false,
+                    "film": false },
+                "link": "link1",
+                "date": "date1",
+                "interview_source_name": "interview_source_name1"
+                }
+        },
+        {
+            "media_2": {
+                "organization_name": "organization_name2",
+                "interview_article_title": "interview_article_title2",
+                "Interview/Article Title": {
+                    "written_interview": false,
+                    "audio_interview": false,
+                    "video_interview": false,
+                    "film": false},
+                "link": "link2",
+                "date": "date2",
+                "interview_source_name": "interview_source_name2"
+                }
+        },
+        {
+            "media_3": {
+                "organization_name": "organization_name3",
+                "interview_article_title": "interview_article_title3",
+                "Interview/Article Title": {
+                    "written_interview": false,
+                    "audio_interview": false,
+                    "video_interview": false,
+                    "film": false
+                },
+                "link": "link3",
+                "date": "date3",
+                "interview_source_name": "interview_source_name3"
+                }
+        },
+        {
+            "media_4": {
+                "organization_name": "organization_name4",
+                "interview_article_title": "interview_article_title4",
+                "Interview/Article Title": {
+                    "written_interview": false,
+                    "audio_interview": false,
+                    "video_interview": false,
+                    "film": false
+                },
+                "link": "link4",
+                "date": "date4",
+                "interview_source_name": "interview_source_name4"
+                }
+        },
+        {
+            "media_5": {
+                "organization_name": "organization_name5",
+                "interview_article_title": "interview_article_title5",
+                "Interview/Article Title": {
+                    "written_interview": false,
+                    "audio_interview": false,
+                    "video_interview": false,
+                    "film": false
+                },
+                "link": "link5",
+                "date": "date5",
+                "interview_source_name": "interview_source_name5"
+            }
+        }    
+    ],
+
+
+//     "white_papers_case_studies":[
+//         {
+//             "white_paper_case_study_1": {
+//                 "organization_name": "organization_name1",
+//                 "title": "title1",
+//                 "topics": "topics1",
+//                 "description": "description1",
+//                 "link": "link1",
+//                 "date": "date1"
+//             }
+//         },
+//         {
+//             "white_paper_case_study_2": {
+//                 "organization_name": "organization_name2",
+//                 "title": "title2",
+//                 "topics": "topics2",
+//                 "description": "description2",
+//                 "link": "link2",
+//                 "date": "date2"
+//             }
+//         },
+//         {   
+//             "white_paper_case_study_3": {
+//                 "organization_name": "organization_name3",
+//                 "title": "title3",
+//                 "topics": "topics3",
+//                 "description": "description3",
+//                 "link": "link3",
+//                 "date": "date3"
+//             }
+//         },
+//         {
+//             "white_paper_case_study_4": {
+//                 "organization_name": "organization_name4",
+//                 "title": "title4",
+//                 "topics": "topics4",
+//                 "description": "description4",
+//                 "link": "link4",
+//                 "date": "date4"
+//             }
+//         },
+//             {
+//             "white_paper_case_study_5": {
+//                 "organization_name": "organization_name5",
+//                 "title": "title5",
+//                 "topics": "topics5",
+//                 "description": "description5",
+//                 "link": "link5",
+//                 "date": "date5"
+//             }
+//         }
+//     ],
+
+
+//     "speaker_contact_information": {
+//         "first_name": "wdefrgth",
+//         "last_name": "rgtryhgb",
+//         "middle_initials": "regtryhhgfv",
+//         "secondary_names_nick_name": "ewrfegtyg",
+//         "pronouns": "efwrgt",
+//         "cell_phone": "feregtryhg",
+//         "main_email": "rgtyg",
+//         "website_link": "rtygb",
+//         "rss_blog_link": "rgttgf",
+//         "rss_blog_link_2": "rftvff",
+//         "closest_major_airport": "frgthybg"
+//     },
+
+
+//     "manager_or_teammate": {
+//         "assist_coordinating": true,
+//         "contact_info": {
+//             "first_name": "gjh",
+//             "last_name": "tyuio",
+//             "pronouns": "swdec",
+//             "cell_phone": "xscdx",
+//             "main_email": "swdesx",
+//             "website": "oiuhjk"
+//         }
+//     },
+
+//     "social_media_personal": {
+//         "facebook": {
+//             "link": "hjk",
+//             "handle": "uyghj",
+//             "followers": "ertyu"
+//         },
+//         "instagram": {
+//             "link": "yuio",
+//             "handle": "rtyui",
+//             "followers": "yuihj"
+//         },
+//         "twitter": {
+//             "link": "werdtf",
+//             "handle": "dfgh",
+//             "followers": "nvvvvvvvvvvvvvvm"
+//         },
+//         "linkedin": {
+//             "link": "qwsd",
+//             "handle": "xsdc",
+//             "followers": "sxdcx"
+//         },
+//         "tiktok": {
+//             "link": "xcdc",
+//             "handle": "wdecx",
+//             "followers": "bgv"
+//         }
+//     },
+
+
+//             "business_info":{
+//                 "business_issue_payment":true,
+//                 "business_information": {
+//                     "official_business_name": "riya",
+//                     "business_email": "riya@gmail.com",
+//                     "business_phone": "76567890899",
+//                     "business_number": "23",
+//                     "website": "www.goggle.com"
+//                     }
+//             },
+
+//             "social_media_business": {
+//                 "facebook": {
+//                     "link": "wdefrgfv",
+//                     "handle": "dfvgvbf",
+//                     "followers": "dcvfgbfvc"
+//                 },
+//                 "instagram": {
+//                     "link": "cdvf",
+//                     "handle": "dvfvf",
+//                     "followers": "vdfgbfv"
+//                 },
+//                 "twitter": {
+//                     "link": "dfvgtvf",
+//                     "handle": "dfgtgfv",
+//                     "followers": "dfvgtvf"
+//                 },
+//                 "linkedin": {
+//                     "link": "dftvgf",
+//                     "handle": "frgvrf",
+//                     "followers": "vtfv"
+//                 },
+//                 "tiktok": {
+//                     "link": "rgvf",
+//                     "handle": "ftfrfe",
+//                     "followers": "wdeff"
+//                 }
+//             },
+
+    // "Brand_Product_Campaigns&Endorsements":[
+    //     {
+    //     "organization_1":{
+    //         "part_of_social_media":true,
+    //         "organization_1_details":{
+    //             "organization_name": "organization_name1",
+    //             "platforms": "platforms1",
+    //             "link_to_campaign": "link_to_campaign1",
+    //             "start_year": "start_year1",
+    //             "end_year": "end_year1"
+    //             }
+    //         }
+    //     },
+    //     {
+    //     "organization_2":{
+    //         "part_of_social_media":false,
+    //         "organization_2_details":{
+    //             "organization_name": "organization_name1",
+    //             "platforms": "platforms1",
+    //             "link_to_campaign": "link_to_campaign1",
+    //             "start_year": "start_year1",
+    //             "end_year": "end_year1"
+    //             }
+    //         }
+    //     }
+    //  ]
+
+
+    
+//     "at_events":[{
+//         "presentation_software": {
+//             "using_presentation_software": true,
+//             "presentation_software_name": "qwe"
+//         },
+//         "audience_interaction_software":{
+//             "using_audience_interaction_software": true,
+//             "audience_interaction_software_name": "jhgf"
+//         },
+//         "attending_sessions_before_after_presentation": true,
+//         "meal_networking_session":{
+//             "attending_meals_networking_sessions": true,
+//             "dietary_requirements_restrictions": "fdg",
+//             "A_V_requirements":"A_V_requirements",
+//             "speaker_introduction": [
+//             {
+//                 "introduction_1": "wer"
+//             },
+//             {
+//                 "introduction_2": "wedc"
+//             }]
+//         },
+//         "prefer_to_book_travel":false,
+//         "travel_agent": {
+//             "use_travel_agent": true,
+//             "Preferred_Seating":"edfrgvf",
+//             "Preferred_Airline":"rtgfvdevf",
+//             "West_Jet#":"thbtgfvdsdd",
+//             "Air_Canada#":"ertgfvdc"
+//         },
+//         "special_conditions_for_travel_arrangements":true,
+//         "table_for_book_sales":false
+//     }],
+
+
+
+//     "Help_us_book_you":{
+//         "speaker_reason_to_work_with": "rfefv",
+//         "value_adds_and_offerings": {
+//             "offer_any_value_adds":true,
+//             "books": {
+//                 "how_many_items": "aXSCSD",
+//                 "value_per_item": "HBGVFC"
+//             },
+//             "online_training": {
+//                 "how_many_items": "wev",
+//                 "value_per_item": "wecd"
+//             },
+//             "merch": {
+//                 "how_many_items": "aswcervdc ",
+//                 "value_per_item": "ikjnhbg"
+//             },
+//             "merch_2": {
+//                 "how_many_items": "fv",
+//                 "value_per_item": "frvvc"
+//             }
+//         },
+//         "complementary_virtual_follow_sessions_consultation": false,
+//         "inclusive_of_travel_expenses": "edx",
+//         "industry_you_specialize_with": {
+//             "industries_do_you_not_work_with": "gvf",
+//             "favorite_audiences_event_types": "fvc",
+//             "target_audiences_industries": "bvc"
+//         },
+//         "English_&_French":true,
+//         "Q&A_in_French": false,
+//         "offer_recordings": false,
+//         "primary_source_of_income": "hnbv",
+//         "speaking_frequency": {
+//             "hoping_for_speaking_to_become_your_primary_source_income":true,
+//             "current_speak_per_month": "hnbgv",
+//             "virtual_events_over_pandemic": "bgv",
+//             "speak_per_month": "gfvc",
+//             "market_yourself_as_a_speaker":"jknjk",
+//             "affiliated_with_any_other_speakers_agencies":"gyuhjbj",
+//             "percentage_of_bookings":"hgvbhjnk",
+//             "Approximately_what_percentage":"fdfghjk",
+//             "speakers_are_you_affiliated_with":"oiusdfg"
+//         }
+//     },
+
+
+
+//     "Help_us_work_with_you":{
+//         "newsletter_onboarding": "vfecs",
+//         "tracking_system": false,
+//         "whatsapp": true,
+//         "business_ownership": false,
+//         "crm_usage": "jnckdksjl",
+//         "appointment_booking_software": "sdsxz",
+//         "expectations_with_sbc": "vfcx",
+//         "something_about_you": "kjhngbv",
+//         "stories": "zxsdcdc"
+//     },
+
+
+//     "Fees":{
+//         "Pro_Bono_Events":"Pro_Bono_Eventscdfvg",
+//         "Discounted_Rate_Events":{
+//             "Corporate_Keynote_20-60_Minutes":"corporatekeynote",
+//             "Corporate_Workshop_60-120_Minutes":"corporateworkshop",
+//             "Corporate_Half_Day_Training_or_Keynote_Breakout":"corporatehalfday",
+//             "Corporate_Full_Day_Training":"corporatefullday"
+//         },
+//         "Multiple_Sessions_on_the_Same_Day":{
+//                 "Concurrent_Sessions_Fee":"concurrentsessionfee",
+//                 "One_Session_in_the_Morning_Fee":"One_Session",
+//                 "One_Session_in_the_Afternoon_Fee":"One_Session"
+            
+//         },
+//         "Multiple_Sessions_on_Concurrent_Days":"First Day Discounted + Second Day Same Fee as First Day",
+//         "Multiple_Sessions_Over_a_Period_of_Time":"Sliding Scale - First Session Full Fee + Second Session Discounted Rate + Third Session Discounted again",
+//         "Lowest_Acceptance_for_Informal_Talk":"Lowest_Acceptance_for_Informal_Talkefrtgvf",
+//         "Host_or_Emcee_Fees":{
+//             "One_Day_Event":"One_Day_Event",
+//             "One_Day_Plus_Evening_Ceremony_Keynote":"One_Day_Plus_Evening_Ceremony_Keynote",
+//             "Two_Day_Event":"Two_Day_Event",
+//             "Two_Day_Plus_Evening_Ceremony_Keynote":"Two_Day_Plus_Evening_Ceremony_Keynote",
+//             "Three_Day_Event":"Three_Day_Event",
+//             "Three_Day_Plus_Evening_Ceremony_Keynote":"Three_Day_Plus_Evening_Ceremony_Keynote",
+//             "Four_Day_Event":"Four_Day_Event",
+//             "Four_Day_Plus_Evening_Ceremony_Keynote":"Four_Day_Plus_Evening_Ceremony_Keynote",
+//             "What is your corporate speaker fee":"bfgvfcds",
+//             "lowest you will accept":"lowest you will accept",
+//             "limitations or condition":"ecfrvgtv",
+//             "Driving Distance Fee":"wdevf",
+//             "Province Fee":"tbyhg",
+//             "Western Canada Fee":"juhybgvf",
+//             "Eastern Canada Fee":"wdefrf",
+//             "Northern Canada Fee":"vf",
+//             "Remote Location Fee":"wdefr"
+//         },
+//         "Local_Discount": {
+//                 "Local_Discount": true,
+//                 "Local_Fee": "Local Fee",
+//                 "Client_Direct_Approach_for_Local_Event":"gvfcc"
+//         },
+//         "Virtual_Discount":{
+//                 "Virtual_Discountt":false,
+//                 "Virtual_Fee":"Virtual Fee",
+//                 "Client_Direct_Approach_for_Virtual_Event":"vffc"
+//         },
+//         "Small_Audience_Discount":{
+//                 "Small_Audience_Discountt":false,
+//                 "Small_Audience_Fee":"Small Audience Fee",
+//                 "Client_Direct_Approach_for_Small_Audience_Event":"Lowest Acceptance",
+//                 "Qualification_for_Small_Audience":"Qualification for Small Audience"
+//         },
+//         "Nonprofit_Discount":{
+//                 "Nonprofit_Discountt":true,
+//                 "Nonprofit_Fee":"Nonprofit Fee",
+//                 "Client_Direct_Approach_for_Nonprofit":"Client_Direct_Approach_for_Nonprofit"
+//         },
+//         "Charitable_Organization_Discount":{
+//                 "Charitable_Organization_Discountt":false,
+//                 "Charitable_Fee":"Charitable Fee",
+//                 "Client_Direct_Approach_for_Charitable_Organization":"",
+//                 "outside_of_speaker_fee_ranges":"outside_of_speaker_fee_ranges"
+//         },
+//         "Rate_Increase":true
+        
+//     },
+
+
+//     "speaker_pitches": [
+//         {
+//             "pitch_1": {
+//                 "general_pitch": "sdcv ",
+//                 "keyword_topic_focus_pitch":"wevf",
+//                 "Short_pitch_up":"fvgdg"
+//             }
+//         },
+//         {
+//             "pitch_2": {
+//                 "general_pitch": "dfgfvc ",
+//                 "keyword_topic_focus_pitch":"wedcvfcvf",
+//                 "Short_pitch_up":"fvgsxcdvfdg"
+//             }
+//         },
+//         {
+//             "pitch_3": {
+//                 "general_pitch": "werf ",
+//                 "keyword_topic_focus_pitch":"vcd",
+//                 "Short_pitch_up":"hbgv"
+//             }
+//         }
+//     ],
+
+
+
+//     "previous_clients": [
+//         {
+//             "organization_name_1": "cgc"
+//         },
+//         {
+//             "organization_name_2": "GPC"
+//         },
+//         {
+//             "organization_name_3": "sd"
+//         },
+//         {
+//             "organization_name_3": "ccet"
+//         },
+//         {
+//             "organization_name_4": "pggc"
+//         },
+//         {
+//             "organization_name_5": "khalsa"
+//         }
+//     ]
+ 
+
+// }
